@@ -15,7 +15,9 @@
    - [Other Video Resources](#other-video-resources)
 6. [Resources for Parents and Teachers](#resources-for-parents-and-teachers)
 7. [Interesting Videos About AI and Technology](#interesting-videos-about-ai-and-technology)
-8. [Important Reminders](#remember)
+8. [Important Reminders](#important-reminders)
+9. [Contributing](#contributing)
+10. [License](#license)
 
 ---
 
