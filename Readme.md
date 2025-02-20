@@ -21,7 +21,7 @@
 
 ---
 
-#### 👋 Welcome, future Coder!
+####  Welcome, future Coder! 👋
 Are you ready to explore the exciting world of computers and coding? This guide will help you discover awesome ways to learn about technology and create cool things with computers!
 
 #### 🎮 Learn by Playing
