@@ -124,6 +124,8 @@ These fun websites and games will teach you coding while you play:
 
 Keep exploring, keep creating, and keep having fun with computer science! 🚀
 
+---
+
 ## Contributing
 
 This repository is open for contributions! If you have additional resources, success stories, or improvements to suggest, please:
@@ -132,6 +134,7 @@ This repository is open for contributions! If you have additional resources, suc
 2. Create your feature branch
 3. Submit a pull request
 
+---
 ## License
 
 This repository is licensed under the MIT License - see the LICENSE file for details.
