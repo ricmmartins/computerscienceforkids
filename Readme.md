@@ -96,7 +96,7 @@ Stay up-to-date with how computer science is shaping learning around the world.
 
 Deepen your coding skills with these courses, guides, and tutorials.
 
-- **Microsoft MakeCode**  
+- **[Microsoft MakeCode](https://www.microsoft.com/en-us/makecode)**  
 - **[Computer Science Fundamentals - Curriculum Guide 2021-2022](https://docs.google.com/document/d/19BIaGVliOZCciSDmuezFFUhhCjhrB2oXpVLn0cJAibc/preview)**  
 - **[Introduction to Coding (YouTube)](https://www.youtube.com/watch?v=iueHn2JrvQw&t=381s)**  
 - **[Amazon Lists for CS Fundamentals Courses](https://www.amazon.com/ideas/amzn1.account.AFRP6N2PQKQ73HHEN6SJNS5ONHEA)**  
