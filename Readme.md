@@ -21,10 +21,10 @@
 
 ---
 
-### 👋 Welcome, future Coder!
+#### 👋 Welcome, future Coder!
 Are you ready to explore the exciting world of computers and coding? This guide will help you discover awesome ways to learn about technology and create cool things with computers!
 
-### 🎮 Learn by Playing
+#### 🎮 Learn by Playing
 These fun websites and games will teach you coding while you play:
 
 #### Beginner-Friendly Games
@@ -50,7 +50,7 @@ These fun websites and games will teach you coding while you play:
 - **CryptoZombies** (https://cryptozombies.io/): Learn blockchain programming
 - **SQL Police Department** (https://sqlpd.com/): Solve crimes using SQL
 
-### 🤖 Cool Tools and Projects
+#### 🤖 Cool Tools and Projects
 
 #### For Beginners
 - **Microsoft MakeCode** (https://www.microsoft.com/en-us/makecode): Create games and programs with friendly block coding
@@ -68,12 +68,12 @@ These fun websites and games will teach you coding while you play:
 - **CodaKid** (https://codakid.com/): Learn professional coding skills through fun projects
 - **CodeSpeak Labs** (https://www.codespeaklabs.com/): Fun coding projects including meditation apps
 
-### 🎨 Learning Without Computers
+#### 🎨 Learning Without Computers
 - **CS Unplugged** (https://csunplugged.org/en/): Play games and solve puzzles that teach computer thinking
 - **Code.org Unplugged** (https://code.org/curriculum/unplugged): Learn computer science concepts through physical activities
 - **Full Unplugged Lesson Plans**: https://code.org/curriculum/docs/k-5/complete_compressed.pdf
 
-### 📺 Amazing Educational Channels
+#### 📺 Amazing Educational Channels
 
 #### YouTube Channels
 - **Adam Savage's Tested**: https://www.youtube.com/user/testedcom
@@ -96,14 +96,14 @@ These fun websites and games will teach you coding while you play:
 - **Curiosity Stream**: https://curiositystream.com/
 - **SciGirls**: https://pbskids.org/scigirls/ (Watch other kids do amazing things with science and technology)
 
-### 🎓 Resources for Parents and Teachers
+#### 🎓 Resources for Parents and Teachers
 - **CompSci Kids** (https://compscikids.net/): Online programs and activities
 - **Coding With Kids** (https://www.codingwithkids.com/): Classes for ages 5-18
 - **STEAM Powered Family** (https://www.steampoweredfamily.com/): Resources for science and tech education
 - **Code.org Curriculum Guide**: https://docs.google.com/document/d/19BIaGVliOZCciSDmuezFFUhhCjhrB2oXpVLn0cJAibc/preview
 - **Amazon CS Resources List**: https://www.amazon.com/ideas/amzn1.account.AFRP6N2PQKQ73HHEN6SJNS5ONHEA
 
-### 🎥 Interesting Videos About AI and Technology
+#### 🎥 Interesting Videos About AI and Technology
 - **Seeing AI**: https://www.youtube.com/watch?v=DybczED-GKE
 - **Fighting Bias in Algorithms**: https://www.youtube.com/watch?v=UG_X_7g63rY
 - **Machine Learning and Human Bias**: https://www.youtube.com/watch?v=59bMh59JQDo
@@ -115,7 +115,7 @@ These fun websites and games will teach you coding while you play:
 - **Types of Machine Learning**: https://www.youtube.com/watch?v=wy-m6sd1BOA
 - **Machine Learning Explained**: https://www.youtube.com/watch?v=xr5LeWKbVnY
 
-### 🌟 Important Reminders
+#### 🌟 Important Reminders
 - Everyone learns differently - try different activities to find what you enjoy most
 - Take breaks and have fun while learning
 - Don't be afraid to make mistakes - they help you learn!
