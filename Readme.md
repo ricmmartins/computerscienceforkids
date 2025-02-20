@@ -234,6 +234,17 @@ Boost your learning with these great video platforms:
   Discover a list of awesome online games that make learning coding super fun!  
   [Check Out the Thread](https://www.threads.net/@mrtechtube/post/DGSPXiBIxB-?xmt=AQGzNEOIwLboFl5pHBAMszuWtRn2yi_FxJw6rTJTbYkb7g)
 
----
-
 We hope you enjoy exploring these amazing computer science resources. Whether you're coding your first project or diving into a fun coding game, remember: learning is an adventure. Happy coding! 😊
+
+## Contributing
+
+This repository is open for contributions! If you have additional resources, success stories, or improvements to suggest, please:
+
+1. Fork the repository
+2. Create your feature branch
+3. Submit a pull request
+
+## License
+
+This repository is licensed under the MIT License - see the LICENSE file for details.
+
