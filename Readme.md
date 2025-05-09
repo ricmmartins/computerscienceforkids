@@ -59,6 +59,8 @@ Learn more, get inspired, and discover new projects with these great resources.
 - **[CodaKid](https://codakid.com/)** – Online courses for kids and teens to code their own games.  
 - **[Coding With Kids](https://www.codingwithkids.com/)** – Learn coding online with classes for ages 5–18.  
 - **[CompSci Kids](https://compscikids.net/)** – Fun online programs and activities to explore computer science.
+- **[Khan Academy – Computing](https://www.khanacademy.org/computing)** - Free, interactive lessons on programming, algorithms, and more.
+- **[Black Rocket](https://blackrocket.com/)** - Creative digital courses and camps for kids focusing on game design, coding, and innovation.
 
 ---
 
